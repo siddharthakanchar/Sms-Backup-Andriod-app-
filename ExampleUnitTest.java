@@ -1,4 +1,4 @@
-package ranjith.smsbackup;
+package siddhartha.smsbackup;
 
 import org.junit.Test;
 
