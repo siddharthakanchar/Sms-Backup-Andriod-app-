@@ -1,4 +1,4 @@
-package ranjith.smsbackup;
+package siddhartha.smsbackup;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
