@@ -1,4 +1,4 @@
-package ranjith.smsbackup;
+package siddhartha.smsbackup;
 
 import android.app.Activity;
 import android.app.AlertDialog;
